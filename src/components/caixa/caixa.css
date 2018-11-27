@@ -1,0 +1,22 @@
+.Caixa{
+    max-width: 100%;
+    width: 420px;
+    margin: auto;
+    box-sizing: border-box;
+    color: #fadd38;
+    padding: 50px;
+    background-color: #1f1f1f;
+    border-radius: 10px;
+}
+
+.Caixa .main{
+    display: flex;
+    justify-content: space-between;
+}
+
+.Caixa .main .buttons{
+    display: flex;
+    flex-direction: column;
+}
+
+
